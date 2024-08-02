@@ -1,5 +1,4 @@
-![FlakesDemo](https://github.com/kunz398/FlakesApiV2/blob/main/ss.jpeg?raw=true)
-
+![DEMO](https://github.com/kunz398/FlakesApiV2/blob/main/ss_1.jpeg?raw=true)
 > How to use Api:
 
 **Get EFL Bill**
